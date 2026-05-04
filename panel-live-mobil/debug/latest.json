@@ -1,17 +1,17 @@
 ﻿{
     "project":  "Panel Live Mobil",
     "appId":  "com.nisoje.arenalive",
-    "versionName":  "1.0.2",
-    "versionCode":  3,
+    "versionName":  "1.0.3",
+    "versionCode":  4,
     "channel":  "debug",
-    "releasedAt":  "2026-05-04T17:43:33Z",
+    "releasedAt":  "2026-05-04T17:58:19Z",
     "apk":  {
-                "fileName":  "panel-live-mobil-1.0.2-debug.apk",
-                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.2-debug/panel-live-mobil-1.0.2-debug.apk",
-                "sha256":  "8f1d1d4e0ebc4f1e958e0959a379f75cdc8198d1a1b8a841129c5899136383de",
-                "sizeBytes":  232513698
+                "fileName":  "panel-live-mobil-1.0.3-debug.apk",
+                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.3-debug/panel-live-mobil-1.0.3-debug.apk",
+                "sha256":  "25b7eab38f7c1ccb93c66f1c550a53ea57e89bf6eb163e467d37b4879d2adef5",
+                "sizeBytes":  232513674
             },
     "notes":  [
-                  "Arena Live: ataques priorizan mas kills y luego puntaje; transferencia visual de kills; bots escalan desde 31 jugadores reales."
+                  "Versus movil: la meta de puntos calibra empuje y la victoria solo ocurre al cubrir 100% del territorio rival. Incluye Arena Live 1.0.2."
               ]
 }
