@@ -1,17 +1,17 @@
 ﻿{
     "project":  "Panel Live Mobil",
     "appId":  "com.nisoje.arenalive",
-    "versionName":  "1.0.1",
-    "versionCode":  2,
+    "versionName":  "1.0.2",
+    "versionCode":  3,
     "channel":  "debug",
-    "releasedAt":  "2026-04-29T22:43:11Z",
+    "releasedAt":  "2026-05-04T17:43:33Z",
     "apk":  {
-                "fileName":  "panel-live-mobil-1.0.1-debug.apk",
-                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.1-debug/panel-live-mobil-1.0.1-debug.apk",
-                "sha256":  "cda94d645503f55f15d20ff503214326dd9c64b45ffcf11905957a9d28b76055",
-                "sizeBytes":  232512822
+                "fileName":  "panel-live-mobil-1.0.2-debug.apk",
+                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.2-debug/panel-live-mobil-1.0.2-debug.apk",
+                "sha256":  "8f1d1d4e0ebc4f1e958e0959a379f75cdc8198d1a1b8a841129c5899136383de",
+                "sizeBytes":  232513698
             },
     "notes":  [
-                  "Build versionada de Panel Live Mobil."
+                  "Arena Live: ataques priorizan mas kills y luego puntaje; transferencia visual de kills; bots escalan desde 31 jugadores reales."
               ]
 }
