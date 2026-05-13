@@ -1,17 +1,18 @@
 ﻿{
     "project":  "Panel Live Mobil",
     "appId":  "com.nisoje.arenalive",
-    "versionName":  "1.0.3",
-    "versionCode":  4,
+    "versionName":  "1.0.4",
+    "versionCode":  5,
     "channel":  "debug",
-    "releasedAt":  "2026-05-04T17:58:19Z",
+    "releasedAt":  "2026-05-13T18:44:07Z",
     "apk":  {
-                "fileName":  "panel-live-mobil-1.0.3-debug.apk",
-                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.3-debug/panel-live-mobil-1.0.3-debug.apk",
-                "sha256":  "25b7eab38f7c1ccb93c66f1c550a53ea57e89bf6eb163e467d37b4879d2adef5",
-                "sizeBytes":  232513674
+                "fileName":  "panel-live-mobil-1.0.4-debug.apk",
+                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.4-debug/panel-live-mobil-1.0.4-debug.apk",
+                "sha256":  "0b535ab1078e24122fb1a8e37f103c8f338ee23ea7e89977d54bdafc60cf96f5",
+                "sizeBytes":  233878143
             },
     "notes":  [
-                  "Versus movil: la meta de puntos calibra empuje y la victoria solo ocurre al cubrir 100% del territorio rival. Incluye Arena Live 1.0.2."
+                  "Push Esferas movil agregado y auditado: catalogo, LIVE, configuracion y layout 3:4.",
+                  "Corrige duplicado de eventos LIVE y alinea el updater a 1.0.4."
               ]
 }
