@@ -1,21 +1,17 @@
-﻿{
+{
     "project":  "Panel Live Mobil",
-     "appId":  "com.nisoje.arenalive",
-    "versio nName":  "1.0.13",
-    "versionCode":  14,
-     "channel":  "debug",
-    "releasedAt":  "20 26-05-22T06:02:00Z",
+    "appId":  "com.nisoje.arenalive",
+    "versionName":  "1.0.15",
+    "versionCode":  16,
+    "channel":  "debug",
+    "releasedAt":  "2026-05-22T15:50:21Z",
     "apk":  {
-                 "fileName":  "panel-live-mobil-1.0.13-d ebug.apk",
-                "url":  "https://g ithub.com/nisojestudio/panel-live-mobil-relea ses/releases/download/v1.0.13-debug/panel-liv e-mobil-1.0.13-debug.apk",
-                "s ha256":  "c829c27b3d7a7ca4f497e7507ccd3ed90f1 8c787d084b5fba34cd2e231732403",
-                 "sizeBytes":  251347435
+                "fileName":  "panel-live-mobil-1.0.15-debug.apk",
+                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.15-debug/panel-live-mobil-1.0.15-debug.apk",
+                "sha256":  "57014cc1f72f2731dfac3b084813a6f2f04b577c824ebb73aa0e64184acc2001",
+                "sizeBytes":  255979035
             },
-     "notes":  [
-                  "Fix: Race Liv e background music (bitstream-sprint.mp3)",
-                   "Fix: Arena Live CFG panel ( panel-toggle + dev-panel)",
-                   "Fix: Removed invalid campeonato from build" ,
-                  "Fix: Conquista subdirect ory structure restored"
+    "notes":  [
+                  "Dark theme unified for all settings panels"
               ]
 }
- 
