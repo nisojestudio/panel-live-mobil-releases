@@ -1,17 +1,17 @@
 {
     "project":  "Panel Live Mobil",
     "appId":  "com.nisoje.arenalive",
-    "versionName":  "1.0.15",
-    "versionCode":  16,
+    "versionName":  "1.0.16",
+    "versionCode":  17,
     "channel":  "debug",
-    "releasedAt":  "2026-05-22T15:50:21Z",
+    "releasedAt":  "2026-05-22T19:30:05Z",
     "apk":  {
-                "fileName":  "panel-live-mobil-1.0.15-debug.apk",
-                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.15-debug/panel-live-mobil-1.0.15-debug.apk",
-                "sha256":  "57014cc1f72f2731dfac3b084813a6f2f04b577c824ebb73aa0e64184acc2001",
-                "sizeBytes":  255979035
+                "fileName":  "panel-live-mobil-1.0.16-debug.apk",
+                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.16-debug/panel-live-mobil-1.0.16-debug.apk",
+                "sha256":  "21098ae5fdee90b9a0940a0bd98ea4c705a4d5dccee9c0d746b2009b76a25a8b",
+                "sizeBytes":  255977403
             },
     "notes":  [
-                  "Dark theme unified for all settings panels"
+                  "Arena Live HUD refinements: timer sin fondo, top3 cards compactas, banner reducido, title centrado, KO removido"
               ]
 }
