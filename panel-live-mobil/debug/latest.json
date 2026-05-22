@@ -1,17 +1,17 @@
 ﻿{
     "project":  "Panel Live Mobil",
     "appId":  "com.nisoje.arenalive",
-    "versionName":  "1.0.9",
-    "versionCode":  10,
+    "versionName":  "1.0.12",
+    "versionCode":  13,
     "channel":  "debug",
-    "releasedAt":  "2026-05-20T20:15:40Z",
+    "releasedAt":  "2026-05-22T04:57:42Z",
     "apk":  {
-                "fileName":  "panel-live-mobil-1.0.9-debug.apk",
-                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.9-debug/panel-live-mobil-1.0.9-debug.apk",
-                "sha256":  "6e6d7feaf758b214d2a67acbede256513480a03968d146c849e45d4a5eff45e2",
-                "sizeBytes":  248361732
+                "fileName":  "panel-live-mobil-1.0.12-debug.apk",
+                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.12-debug/panel-live-mobil-1.0.12-debug.apk",
+                "sha256":  "868fee5d8e6f5638eb003fbae4216adbce14d9bc77394c9f6a486e17cb933906",
+                "sizeBytes":  254143666
             },
     "notes":  [
-                  "v1.0.9: race_live reinicio 10s + podio/scroll + winnerClose fix; super_chat sin controles touch en pantalla; nodejs: fix nisojeApiBase"
+                  "Fix bridge paths, TTS and audio scripts for push_esferas and race_live"
               ]
 }
