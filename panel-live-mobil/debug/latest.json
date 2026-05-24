@@ -1,19 +1,17 @@
-﻿{
+{
     "project":  "Panel Live Mobil",
     "appId":  "com.nisoje.arenalive",
-    "versionName":  "1.0.17",
-    "versionCode":  18,
+    "versionName":  "1.0.18",
+    "versionCode":  19,
     "channel":  "debug",
-    "releasedAt":  "2026-05-22T23:59:00Z",
+    "releasedAt":  "2026-05-24T21:56:39Z",
     "apk":  {
-                "fileName":  "panel-live-mobil-1.0.17-debug.apk",
-                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.17-debug/panel-live-mobil-1.0.17-debug.apk",
-                "sha256":  "1c9bdb6077195b7c44b19d76429a6253cea45b3f31d3d0962a19f91cd72da53d",
-                "sizeBytes":  251344139
+                "fileName":  "panel-live-mobil-1.0.18-debug.apk",
+                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.18-debug/panel-live-mobil-1.0.18-debug.apk",
+                "sha256":  "816be81cab6d34e9b58d602de7f1ff491ee5df846060033a92ea13bd2f75104b",
+                "sizeBytes":  252413213
             },
     "notes":  [
-                  "Quick wins: XSS escape, path traversal guard, relative paths, viewport-fit=cover, setInterval cleanup",
-                  "Worker: TLS 1.2+ enforcement, security headers, license key case fix",
-                  "Race Live: engine Math.min fix, audio lazy init, bridge unificado"
+                  "Nuevo juego: Guerra de Esfera (team-vs-team con poderes LIVE)"
               ]
 }
