@@ -1,17 +1,19 @@
 {
     "project":  "Panel Live Mobil",
     "appId":  "com.nisoje.arenalive",
-    "versionName":  "1.0.18",
-    "versionCode":  19,
+    "versionName":  "1.0.19",
+    "versionCode":  20,
     "channel":  "debug",
-    "releasedAt":  "2026-05-24T21:56:39Z",
+    "releasedAt":  "2026-05-27T03:35:05Z",
     "apk":  {
-                "fileName":  "panel-live-mobil-1.0.18-debug.apk",
-                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.18-debug/panel-live-mobil-1.0.18-debug.apk",
-                "sha256":  "816be81cab6d34e9b58d602de7f1ff491ee5df846060033a92ea13bd2f75104b",
-                "sizeBytes":  252413213
+                "fileName":  "panel-live-mobil-1.0.19-debug.apk",
+                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.19-debug/panel-live-mobil-1.0.19-debug.apk",
+                "sha256":  "f35ed7aca9d5e3b9f100881546ed4786c42edc25b3c9fbb4f108e4dece32401a",
+                "sizeBytes":  252858367
             },
     "notes":  [
-                  "Nuevo juego: Guerra de Esfera (team-vs-team con poderes LIVE)"
+                  "Reempaquetado Arena Live desde PC fuente",
+                  "Limpieza de archivos extra en web/games/arena_live",
+                  "Build v1.0.19"
               ]
 }
