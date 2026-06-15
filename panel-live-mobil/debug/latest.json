@@ -1,17 +1,17 @@
 {
     "project":  "Panel Live Mobil",
     "appId":  "com.nisoje.arenalive",
-    "versionName":  "1.0.21",
-    "versionCode":  22,
+    "versionName":  "1.0.22",
+    "versionCode":  23,
     "channel":  "debug",
-    "releasedAt":  "2026-06-14T00:49:52Z",
+    "releasedAt":  "2026-06-15T05:51:49Z",
     "apk":  {
-                "fileName":  "panel-live-mobil-1.0.21-debug.apk",
-                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.21-debug/panel-live-mobil-1.0.21-debug.apk",
-                "sha256":  "9c316b52b17cc7a060e4e026c52b5813a1c11145331f885cd7234158b1215587",
-                "sizeBytes":  269610759
+                "fileName":  "panel-live-mobil-1.0.22-debug.apk",
+                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.22-debug/panel-live-mobil-1.0.22-debug.apk",
+                "sha256":  "48dd1bcc2d84939c26e94c907abcf309e6c83679b9de9e4da2e897d1443089c8",
+                "sizeBytes":  269628187
             },
     "notes":  [
-                  "AndroidDeviceBridge: plugin nativo UUID + device name"
+                  "v1.0.22: App shell audit and fixes"
               ]
 }
