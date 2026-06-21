@@ -1,17 +1,17 @@
 ﻿{
     "project":  "Panel Live Mobil",
     "appId":  "com.nisoje.arenalive",
-    "versionName":  "1.0.25",
-    "versionCode":  26,
+    "versionName":  "1.0.26",
+    "versionCode":  27,
     "channel":  "debug",
-    "releasedAt":  "2026-06-18T20:26:24Z",
+    "releasedAt":  "2026-06-21T17:30:44Z",
     "apk":  {
-                "fileName":  "panel-live-mobil-1.0.25-debug.apk",
-                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.25-debug/panel-live-mobil-1.0.25-debug.apk",
-                "sha256":  "ebfe6b18d3fcfaf569915a6f2b3a099f7399edaf7c14692172ac521c4413ec85",
-                "sizeBytes":  269628408
+                "fileName":  "panel-live-mobil-1.0.26-debug.apk",
+                "url":  "https://github.com/nisojestudio/panel-live-mobil-releases/releases/download/v1.0.26-debug/panel-live-mobil-1.0.26-debug.apk",
+                "sha256":  "20aa0655c99c8968933ffe3d5a869c8af84baa0260f3b7591b9b653dd397f428",
+                "sizeBytes":  269690693
             },
     "notes":  [
-                  "fix(arena_live): HUD dimensiones correctas en mobile - override getArenaRect() para usar canvas.clientWidth/clientHeight en vez de window.innerWidth/innerHeight"
+                  "Correcciones campeonato overlay"
               ]
 }
